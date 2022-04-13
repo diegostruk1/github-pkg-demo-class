@@ -1,0 +1,15 @@
+{
+  "name": "@diegostruk1/github-pkg-demo-class",
+  "repository": {
+    "url": "git://github.com/diegostruk1/github-pkg-demo-class.git"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
